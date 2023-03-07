@@ -1,0 +1,31 @@
+{
+  "name": "versatica-de-tools",
+  "displayName": "Versatica Data Engineer Tookit",
+  "description": "A list of useful VS Code Extensions for Data Engineer",
+  "version": "0.0.1",
+  "publisher": "Nuax",
+  "icon": "images/versatica.png",
+  "homepage": "https://github.com/shiroNaux/Versatica-Data-Engineer-Toolkit",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shiroNaux/Versatica-Data-Engineer-Toolkit.git"
+	},
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "donjayamanne.python-extension-pack",
+    "kevinkyang.auto-comment-blocks",
+    "magicstack.MagicPython",
+    "ms-azuretools.vscode-docker",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.vscode-jupyter-powertoys",
+    "redhat.ansible",
+    "redhat.vscode-yaml",
+    "ms-vscode-remote.vscode-remote-extensionpack"
+  ]
+}
